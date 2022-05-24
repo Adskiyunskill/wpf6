@@ -1,0 +1,15 @@
+C:\Project C#\wpf6\wpf6_sda\wpf6_sda\bin\Debug\wpf6_sda.exe.config
+C:\Project C#\wpf6\wpf6_sda\wpf6_sda\bin\Debug\wpf6_sda.exe
+C:\Project C#\wpf6\wpf6_sda\wpf6_sda\bin\Debug\wpf6_sda.pdb
+C:\Project C#\wpf6\wpf6_sda\wpf6_sda\obj\Debug\wpf6_sda.csproj.AssemblyReference.cache
+C:\Project C#\wpf6\wpf6_sda\wpf6_sda\obj\Debug\MainWindow.g.cs
+C:\Project C#\wpf6\wpf6_sda\wpf6_sda\obj\Debug\App.g.cs
+C:\Project C#\wpf6\wpf6_sda\wpf6_sda\obj\Debug\wpf6_sda_MarkupCompile.cache
+C:\Project C#\wpf6\wpf6_sda\wpf6_sda\obj\Debug\wpf6_sda_MarkupCompile.lref
+C:\Project C#\wpf6\wpf6_sda\wpf6_sda\obj\Debug\MainWindow.baml
+C:\Project C#\wpf6\wpf6_sda\wpf6_sda\obj\Debug\wpf6_sda.g.resources
+C:\Project C#\wpf6\wpf6_sda\wpf6_sda\obj\Debug\wpf6_sda.Properties.Resources.resources
+C:\Project C#\wpf6\wpf6_sda\wpf6_sda\obj\Debug\wpf6_sda.csproj.GenerateResource.cache
+C:\Project C#\wpf6\wpf6_sda\wpf6_sda\obj\Debug\wpf6_sda.csproj.CoreCompileInputs.cache
+C:\Project C#\wpf6\wpf6_sda\wpf6_sda\obj\Debug\wpf6_sda.exe
+C:\Project C#\wpf6\wpf6_sda\wpf6_sda\obj\Debug\wpf6_sda.pdb
